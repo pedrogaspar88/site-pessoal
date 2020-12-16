@@ -1,8 +1,10 @@
 h1 {
     text-align: center;
-    color: darkgray;
-    background-color: lightgray;
-    padding: 10px;
-    border: 2px solid black;
+    color: darkslategray;
+    /*background-color: lightgray;*/
+    content:2px;
+    background-color: lightsteelblue;
+    padding: 3px;
+    border: 2px solid darkslategray;
     margin-bottom: 10px;
 }
