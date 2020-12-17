@@ -9,11 +9,11 @@ h1 {
 }
 h2 {
     text-align: left;
-    color: darkslategray;
-    content:5px;
-    background-color: lightsteelblue;
+    color: darkslateblue;
+    /*content:5px;*/
+    background-color: lightgray;
     padding: 3px;
-    border: 2px solid darkslategray;
+    border: 2px solid darkslateblue;
     margin-bottom: 10px;
 }
 td, th {
@@ -23,7 +23,7 @@ td, th {
 
 th {
     background-color:darkslategray;
-    color: lightsteelblue;
+    color: white;
 }
 
 table {
